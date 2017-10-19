@@ -8,4 +8,4 @@ This is the companion application to the [Minimal Introduction to the Ruby Langu
  1. When you get to the article on writing Permanent Programs, you can start editing the code and view the output at `https://ruby-intro-[YOUR CLOUD 9 USERNAME].c9users.io`
 
 
-TEST2
+TEST3
